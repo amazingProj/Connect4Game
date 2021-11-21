@@ -14,3 +14,7 @@ while not game.isFinished(board):
     game.printState(board)
 
 print("Game Over:")
+
+# git branch -M main
+
+# git push -u origin main
